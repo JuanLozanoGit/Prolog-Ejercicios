@@ -1,5 +1,4 @@
 % ejercicios.pl
-% Soluciones a ejercicios introductorios en Prolog
 
 % ----------------------------
 % Ejercicio 1: Contar elementos de una lista
