@@ -1,8 +1,8 @@
 # Prolog-Ejercicios
 
-Este repositorio contiene soluciones básicas en Prolog para practicar recursión y manipulación de listas.
+Este repositorio contiene soluciones de los ejercicios en Prolog para practicar recursión y manipulación de listas.
 
-Incluye los siguientes predicados:
+Incluyendo los siguientes puntos:
 
 - `contar_elementos/2`: Cuenta la cantidad de elementos en una lista.
 - `miembro/2`: Verifica si un elemento pertenece a una lista (sin usar `member/2`).
@@ -10,8 +10,8 @@ Incluye los siguientes predicados:
 
 ## Uso
 
-1. Asegúrate de tener [SWI-Prolog](https://www.swi-prolog.org/) instalado.
-2. Abre SWI-Prolog y carga el archivo con:
+1. Instalar o tener instalado [SWI-Prolog](https://www.swi-prolog.org/) instalado.
+2. Abrir SWI-Prolog y carga el archivo con:
 
    ```prolog
    ?- consult('ejercicios.pl').
